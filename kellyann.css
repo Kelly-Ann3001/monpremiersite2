@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+img{
+    width: 500px;
+}
+
+.photo {
+    font-size: 10px;    
+}
+
+h2 {
+    color: red;
+    font-size: 15px;
+}
+
